@@ -1,4 +1,4 @@
-/*
+
 # HTML Table Reference
 
 This project is a simple HTML page that serves as a reference for HTML table tags and attributes. It includes two tables: one for tags and one for attributes.
